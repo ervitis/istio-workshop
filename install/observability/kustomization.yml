@@ -1,0 +1,4 @@
+bases:
+  - ../vendor/katalog/monitoring/prometheus-operated
+  - ../vendor/katalog/service-mesh/istio/telemetry/service-monitor
+  - ../vendor/katalog/service-mesh/istio/kiali
